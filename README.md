@@ -1,3 +1,15 @@
+# 🕒 TimeZoneInterceptor has a new name and home!
+<p align="center"> <img src="https://ghost.org/images/docs/setup/fork.gif" /> </p>
+This repository is no longer maintained
+
+TimeZoneInterceptor is now called Samay and has moved to a new repository at [https://github.com/dineshsolanki/samay](https://github.com/DineshSolanki/Samay).
+
+Please visit the new Samay repository for the latest updates, features, and documentation.
+
+We welcome you to use Samay for all your timezone needs in Spring Boot applications! It provides the same seamless timezone handling capabilities and more.
+
+Thank you for your interest in TimeZoneInterceptor! We hope you enjoy Samay. Let us know if you have any questions.
+
 # 🕒 TimeZoneInterceptor
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.dineshsolanki/TimeZoneInterceptor)](https://search.maven.org/artifact/io.github.dineshsolanki/TimeZoneInterceptor)
